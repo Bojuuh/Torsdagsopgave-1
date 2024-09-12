@@ -1,3 +1,3 @@
 # Torsdagsopgave-1
-Markus Bjerrum Jørgensen
-cph-mj1192@cphbusiness.dk
+# Markus Bjerrum Jørgensen
+# cph-mj1192@cphbusiness.dk
